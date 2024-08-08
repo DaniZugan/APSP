@@ -1,2 +1,2 @@
 # APSP
-This repository contains function to create random graphs (Erdos-Renyi and Albert-Barabasi technique).
+This repository contains functions to create random graphs and evaluate APSP algorithms. 
